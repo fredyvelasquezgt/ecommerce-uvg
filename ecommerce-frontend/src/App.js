@@ -11,7 +11,7 @@ function App() {
     <>
       <div className="container">
         <LeftPanel home="" self="" settings="" logout=""></LeftPanel>
-        <div className="panel-container">
+        <div className="panel-container"> //desde aca
           <div id="generalPanel">
             <div className="items-container">
               <div className="head">
